@@ -1,0 +1,6 @@
+@Microblogging_HostAddress = http://localhost:5187
+
+GET {{Microblogging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
